@@ -1,0 +1,22 @@
+{
+  "name": "license-analyser",
+  "version": "1.0.0",
+  "description": "tool to extract licensing info",
+  "main": "licenseAnalyser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleenfei/starfruit.git"
+  },
+  "author": "Charly Fei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charleenfei/starfruit/issues"
+  },
+  "homepage": "https://github.com/charleenfei/starfruit#readme",
+  "dependencies": {
+    "npm-license-crawler": "^0.1.5"
+  }
+}
